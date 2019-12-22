@@ -8,8 +8,9 @@ end
 
 def monopoly
 	monopoly = {
-	  railroad: { }
-	  }
+	  railroad: { 
+ }
+}
 
 end
 
